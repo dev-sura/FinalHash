@@ -74,7 +74,7 @@
    </div>
 
    <!-- Parallax Fullwidth -->
-   <div id="page-slider" class="parallax-bg5 parallax">
+   <div id="page-slider" class="parallax-bg7 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
@@ -88,10 +88,10 @@
                      </div><!-- /.logo -->
                   </div><!-- /.span2 -->
                   <div class="span10">
-                     <div class="btn-menu"></div><!-- //mobile menu button -->
+                     <div class="btn-menu"></div><!-- /mobile menu button -->
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
-                           <li><a href="index.html">Home</a>
+                           <li><a href="index.php">Home</a>
                               <ul class="sub-menu">
                                  <li><a href="#">Third Level Item</a>
                                     <ul class="sub-menu">
@@ -101,41 +101,41 @@
                                  </li>
                               </ul><!-- /.submenu -->
                            </li>
-                           <li><a href="about.html">Pages</a>
+                           <li><a class="active" href="about.php">Pages</a>
                               <ul class="sub-menu">
-                                 <li><a href="about.html">About</a></li>
-                                 <li><a href="services.html">Services</a></li>
-                                 <li><a href="404.html">404 Page</a></li>
-                                 <li><a href="under-construction.html">Under Construction</a></li>
+                                 <li><a href="about.php">About</a></li>
+                                 <li><a href="services.php">Services</a></li>
+                                 <li><a href="404.php">404 Page</a></li>
+                                 <li><a href="under-construction.php">Under Construction</a></li>
                               </ul><!-- /.submenu -->
                            </li>
-                           <li><a href="shortcodes.html">Features</a>
+                           <li><a href="shortcodes.php">Features</a>
                               <ul class="sub-menu">
-                                 <li><a href="shortcodes.html">Shortcodes</a></li>
-                                 <li><a href="icons.html">Icons</a></li>
+                                 <li><a href="shortcodes.php">Shortcodes</a></li>
+                                 <li><a href="icons.php">Icons</a></li>
                               </ul><!-- /.submenu -->
                            </li>
-                           <li><a class="active" href="portfolio.html">Our Work</a>
+                           <li><a href="portfolio.php">Our Work</a>
                               <ul class="sub-menu">
-                                 <li><a href="portfolio.html">Portfolio</a></li>
-                                 <li><a href="portfolio2.html">Portfolio 2</a></li>
-                                 <li><a href="portfolio-single.html">Portfolio Single</a></li>
-                                 <li><a href="portfolio-single2.html">Portfolio Single 2</a></li>
-                              </ul><!-- /.submenu -->
+                                 <li><a href="portfolio.php">Portfolio</a></li>
+                                 <li><a href="portfolio2.php">Portfolio 2</a></li>
+                                 <li><a href="portfolio-single.php">Portfolio Single</a></li>
+                                 <li><a href="portfolio-single2.php">Portfolio Single 2</a></li>
+                              </ul><!-- /submenu -->
                            </li>
-                           <li><a href="contact.html">Contact</a></li>
-                           <li><a href="blog-masonry.html">Blog</a>
+                           <li><a href="contact.php">Contact</a></li>
+                           <li><a href="blog-masonry.php">Blog</a>
                               <ul class="sub-menu right-sub-menu">
-                                 <li><a href="blog.html">Blog</a></li>
-                                 <li><a href="blog-masonry.html">Blog Masonry</a></li>
-                                 <li><a href="blog-single.html">Blog Single</a></li>
-                              </ul><!-- /.submenu -->
+                                 <li><a href="blog.php">Blog</a></li>
+                                 <li><a href="blog-masonry.php">Blog Masonry</a></li>
+                                 <li><a href="blog-single.php">Blog Single</a></li>
+                              </ul><!-- /submenu -->
                            </li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
                </div><!-- /.row -->
-            </div><!-- /container -->
+            </div><!-- /.container -->
          </div><!-- /.header-wrap -->
       </header>
    </div>
@@ -145,247 +145,119 @@
    	<div class="container page-title">
    		<div class="page-title-wrapper">
 			   <div class="span6 page-title-captions">
-			   	<h1>Projects</h1>
+			   	<h1>Services</h1>
 			   </div><!-- /.span6 -->
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="#">Home /</a></li>
-					<li><a href="#">Projects /</a></li>
+					<li><a href="#">Services /</a></li>
 					<li>Dark version</li>
 					</ul>
 			   </div><!-- /.span6 -->
-         </div>
-      </div><!-- /.container -->
+         </div><!-- /.row -->
+      </div><!-- /container -->
    </section>
 
-   <!-- Projects -->
-   <section id="projects" class="section projects-section" style="background-color: #10101d">
+   <!-- Services -->
+   <section class="section entry-post" style="background-color: #10101d">
       <div class="container">
          <div class="row">
             <div class="span12">
                <div class="titlebox">
-                  <h2 class="subtitle text-white">Projects</h2>
-                  <h1 class="maintitle text-color">EXPLORE OUR WORK</h1>
-                  <p class="text-white">Nullam viverra, arcu vel porta fermentum, mauris metus convallis quam, eget varius mauris elit quis quam. Etiam in arcu in enim dictum auctor. Nunc laoreet mi fringilla odio ultricies, laoreet cursus lectus malesuada.</p>
+                  <h2 class="subtitle text-white">Services</h2>
+                  <h1 class="maintitle text-color">A FEW INTERESTING FACTS ABOUT US</h1>
+                  <p class="text-white">Fusce nec fermentum arcu, eu elementum libero. Phasellus euismod et turpis ut viverra. Quisque vel tristique tellus. Etiam nec neque eu augue fringilla porta.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
-         </div><!-- /.row -->
+            <div class="span3">
+               <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
+                  <div class="icon">
+                     <div class="iconbg">
+                        <i class="icons-lightbulb"></i>
+                     </div>
+                  </div>
+                  <h3><a href="#">STRATEGIC ACTION PLAN</a></h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+               </div>
+            </div><!-- /.span3 -->
+            <div class="span3">
+               <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.2s" data-animation-offset="75%">
+                  <div class="icon">
+                     <div class="iconbg">
+                        <i class="icons-copy-paste"></i>
+                     </div>
+                  </div>
+                  <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+               </div>
+            </div><!-- /.span3 -->
+            <div class="span3">
+               <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.4s" data-animation-offset="75%">
+                  <div class="icon">
+                     <div class="iconbg">
+                        <i class="icons-pen"></i>
+                     </div>
+                  </div>
+                  <h3><a href="#">ELEGANT DESIGN PROJECT</a></h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+               </div>
+            </div><!-- /.span3 -->
+            <div class="span3">
+               <div class="iconbox v2 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.6s" data-animation-offset="75%">
+                  <div class="icon">
+                     <div class="iconbg">
+                        <i class="icons-scissors"></i>
+                     </div>
+                  </div>
+                  <h3><a href="#">A THOUGHTFUL IDEA</a></h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+               </div>
+            </div><!-- /.span3 -->
+            <div class="spacer"></div>
+            <div class="span12">
+               <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
+                  <h2 class="subtitle text-white">Other services</h2>
+                  <h1 class="maintitle text-color">MORE INFORMATION ABOUT US</h1>
+                  <p class="text-white">Vestibulum molestie ut libero quis bibendum. Maecenas congue nisl felis, eu molestie tellus sodales nec. Donec ac ullamcorper nisi. Vestibulum molestie ut.</p>
+               </div>
+               <div class="spacer"></div>
+            </div><!-- /.span12 -->
+            <div class="span6">
+               <div class="accordion Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
+                  <div class="toggle">
+                     <div class="toggle-title active"><span>BRANDING</span></div>
+                     <div class="toggle-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                     </div>
+                  </div><!-- /toggle -->
+                  <div class="toggle">
+                     <div class="toggle-title"><span>EDITORIAL DESIGN</span></div>
+                     <div class="toggle-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                     </div>
+                  </div><!-- /.toggle -->
+                  <div class="toggle">
+                     <div class="toggle-title"><span>ILLUSTRATION</span></div>
+                     <div class="toggle-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                     </div>
+                  </div><!-- /.toggle -->
+                  <div class="toggle">
+                     <div class="toggle-title"><span>WEBDESIGN</span></div>
+                     <div class="toggle-content">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum nisi, interdum ut nisi a, congue ultricies arcu. Vivamus sit amet erat orci. Cras congue ligula eros, eget egestas nisi gravida semper. Proin vel malesuada mauris, vitae ultricies arcu. Praesent vitae metus sed massa consectetur vulputate id nec dui.</p>
+                     </div>
+                  </div><!-- /.toggle -->
+               </div><!-- /.accordion -->
+            </div><!-- /.span6 -->
+            <div class="span6">
+               <div class=" Hashinc-animation" data-animation="fadeInRight" data-animation-delay="0" data-animation-offset="75%">
+                  <img src="images/responsive.png" alt="image" class="img-right">
+               </div>
+            </div><!-- /.span6 -->
+        </div><!-- /.row -->
       </div><!-- /.container -->
-      <div class="project-wrap fullwidth">
-         <ul class="project-filter v2 inline">
-            <li class="active"><a data-filter="*" href="#">All</a></li>
-            <li><a data-filter=".branding" href="#">Branding</a></li>
-            <li><a data-filter=".editorial" href="#">Editorial</a></li>
-            <li><a data-filter=".illustration" href="#">Illustration</a></li>
-            <li><a data-filter=".web-design" href="#">Web Design</a></li>
-         </ul><!-- /.project-filter -->
-         <div class="project-container" data-portfolio-effect="zoomIn">
-            <div class="item project-item branding">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/1.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item editorial">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/2.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">Editorial 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item illustration">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/3.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">Illustration 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item web-design">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/4.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">WEB DESIGN 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item illustration">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/5.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">Illustration 04</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item editorial branding">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/6.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item illustration web-design">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/7.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item branding">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/8.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item editorial illustration">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/9.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-            <div class="item project-item editorial">
-               <div class="item-wrap">
-                  <div class="project-thumb">
-                     <img src="images/portfolio/10.jpg" alt="image">
-                     <div class="opacity"></div>
-                     <div class="detail">
-                        <div class="text">
-                           <h3 class="project-title"><a href="portfolio-single.html">BRANDING 03</a></h3>
-                           <p>28 December 2014</p>
-                        </div>
-                        <div class="link">
-                           <div class="icon-bg"></div>
-                           <div class="icon">
-                              <a href="portfolio-single.html"><i class="icons-link"></i></a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div><!-- /.item-wrap -->
-            </div><!-- /.project-item -->
-         </div><!-- /.project-container -->
-         <div class="loadmore-btn">
-            <a href="#" class="btn-Hashinc border-type">LOAD MORE</a>
-         </div><!-- /.loadmore-btn -->
-      </div><!-- /.project-wrap -->
    </section>
 
    <!-- Socials -->
@@ -541,7 +413,7 @@
                   <a href="#">SERVICES</a> |
                   <a href="#">CONTACT</a>
                </div>
-            </div>
+            </div><!-- /.span12 -->
          </div><!-- /.row -->
       </div><!-- /.container -->
    </div>

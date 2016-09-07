@@ -74,7 +74,7 @@
    </div>
 
    <!-- Parallax Fullwidth -->
-   <div id="page-slider" class="parallax-bg6 parallax">
+   <div id="page-slider" class="parallax-bg5 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
@@ -88,10 +88,10 @@
                      </div><!-- /.logo -->
                   </div><!-- /.span2 -->
                   <div class="span10">
-                     <div class="btn-menu"></div><!-- /mobile menu button -->
+                     <div class="btn-menu"></div><!-- //mobile menu button -->
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
-                           <li><a href="index.html">Home</a>
+                           <li><a href="index.php">Home</a>
                               <ul class="sub-menu">
                                  <li><a href="#">Third Level Item</a>
                                     <ul class="sub-menu">
@@ -101,41 +101,41 @@
                                  </li>
                               </ul><!-- /.submenu -->
                            </li>
-                           <li><a class="active" href="about.html">Pages</a>
+                           <li><a href="about.php">Pages</a>
                               <ul class="sub-menu">
-                                 <li><a href="about.html">About</a></li>
-                                 <li><a href="services.html">Services</a></li>
-                                 <li><a href="404.html">404 Page</a></li>
-                                 <li><a href="under-construction.html">Under Construction</a></li>
+                                 <li><a href="about.php">About</a></li>
+                                 <li><a href="services.php">Services</a></li>
+                                 <li><a href="404.php">404 Page</a></li>
+                                 <li><a href="under-construction.php">Under Construction</a></li>
                               </ul><!-- /.submenu -->
                            </li>
-                           <li><a href="shortcodes.html">Features</a>
+                           <li><a href="shortcodes.php">Features</a>
                               <ul class="sub-menu">
-                                 <li><a href="shortcodes.html">Shortcodes</a></li>
-                                 <li><a href="icons.html">Icons</a></li>
+                                 <li><a href="shortcodes.php">Shortcodes</a></li>
+                                 <li><a href="icons.php">Icons</a></li>
                               </ul><!-- /.submenu -->
                            </li>
-                           <li><a href="portfolio.html">Our Work</a>
+                           <li><a class="active" href="portfolio.php">Our Work</a>
                               <ul class="sub-menu">
-                                 <li><a href="portfolio.html">Portfolio</a></li>
-                                 <li><a href="portfolio2.html">Portfolio 2</a></li>
-                                 <li><a href="portfolio-single.html">Portfolio Single</a></li>
-                                 <li><a href="portfolio-single2.html">Portfolio Single 2</a></li>
-                              </ul><!-- /submenu -->
+                                 <li><a href="portfolio.php">Portfolio</a></li>
+                                 <li><a href="portfolio2.php">Portfolio 2</a></li>
+                                 <li><a href="portfolio-single.php">Portfolio Single</a></li>
+                                 <li><a href="portfolio-single2.php">Portfolio Single 2</a></li>
+                              </ul><!-- /.submenu -->
                            </li>
-                           <li><a href="contact.html">Contact</a></li>
-                           <li><a href="blog-masonry.html">Blog</a>
+                           <li><a href="contact.php">Contact</a></li>
+                           <li><a href="blog-masonry.php">Blog</a>
                               <ul class="sub-menu right-sub-menu">
-                                 <li><a href="blog.html">Blog</a></li>
-                                 <li><a href="blog-masonry.html">Blog Masonry</a></li>
-                                 <li><a href="blog-single.html">Blog Single</a></li>
-                              </ul><!-- /submenu -->
+                                 <li><a href="blog.php">Blog</a></li>
+                                 <li><a href="blog-masonry.php">Blog Masonry</a></li>
+                                 <li><a href="blog-single.php">Blog Single</a></li>
+                              </ul><!-- /.submenu -->
                            </li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
                </div><!-- /.row -->
-            </div><!-- /.container -->
+            </div><!-- /container -->
          </div><!-- /.header-wrap -->
       </header>
    </div>
@@ -145,188 +145,251 @@
    	<div class="container page-title">
    		<div class="page-title-wrapper">
 			   <div class="span6 page-title-captions">
-			   	<h1>About</h1>
+			   	<h1>Projects</h1>
 			   </div><!-- /.span6 -->
 			   <div class="span6 breadcrumbs">
 					<ul>
 					<li><a href="#">Home /</a></li>
-					<li><a href="#">About /</a></li>
+					<li><a href="#">Projects /</a></li>
 					<li>Dark version</li>
 					</ul>
 			   </div><!-- /.span6 -->
-         </div><!-- /.page-title-wrapper -->
+         </div>
       </div><!-- /.container -->
    </section>
 
-   <!-- About -->
-   <section class="section entry-post" style="background-color: #10101d">
+   <!-- Projects -->
+   <section id="projects" class="section projects-section" style="background-color: #10101d">
       <div class="container">
          <div class="row">
             <div class="span12">
-               <div class="titlebox Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
-                  <h2 class="subtitle text-white">Our team</h2>
-                  <h1 class="maintitle text-color">WHO ARE WE?</h1>
-                  <p class="text-white">Sed velit tellus, tempus sit amet facilisis ut, vulputate at mi. Aliquam sollicitudin augue eu lectus eleifend, quis molestie ante sollicitudin. Donec scelerisque justo vitae lorem pulvinar fringilla.</p>
+               <div class="titlebox">
+                  <h2 class="subtitle text-white">Projects</h2>
+                  <h1 class="maintitle text-color">EXPLORE OUR WORK</h1>
+                  <p class="text-white">Nullam viverra, arcu vel porta fermentum, mauris metus convallis quam, eget varius mauris elit quis quam. Etiam in arcu in enim dictum auctor. Nunc laoreet mi fringilla odio ultricies, laoreet cursus lectus malesuada.</p>
                </div>
                <div class="spacer"></div>
             </div><!-- /.span12 -->
-            <div class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeIn" data-animation-delay="0" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/1.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">Jonathan Crannes</h5>
-                  <p class="position">Editorial Design</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.2s" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/2.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">Michael Bonose</h5>
-                  <p class="position">Illustrator</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.4s" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/3.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">Simon Hunt</h5>
-                  <p class="position">Designer</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
-                <div class="photo">
-                  <div class="overlays">
-                    <img src="images/team/4.jpg" alt="image">
-                  </div>
-                </div>
-                <div class="info">
-                  <h5 class="name">Gregory Willson</h5>
-                  <p class="position">Webdesign</p>
-                </div>
-                <ul class="socials unstyled">
-                  <li><a href="#"><i class="icons-facebook"></i></a></li>
-                  <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
-                </ul>
-                <div class="clearfix"></div>
-              </div><!-- /.team -->
-            </div><!-- /.span3 -->
-            <div class="spacer large"></div>
-            <div class="span6">
-              <h3 class="title">A BRIEF HISTORY OF OUR COLLECTIVE</h3>
-              <div class="spacer small"></div>
-              <div class="text-block">
-                <p>Sed quis turpis eu nulla pretium porta. In volutpat augue ut odio iaculis sagittis. Donec enim massa, euismod at velit vitae, viverra venenatis leo. Donec hendrerit condimentum sem, sit amet tempor enim posuere et. In sit amet quam ante. In dignissim dui risus, non ornare enim tincidunt nec. Sed sit amet enim eget sapien convallis posuere. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc et tempor magna, quis egestas lorem. Vestibulum fringilla non lorem id dictum.</p>
-                <p>Etiam laoreet consequat mauris, a congue lectus sodales eget. Morbi blandit, ipsum ac consequat molestie, nisi enim euismod purus, in consectetur nisl eros auctor orci.</p>
-              </div>
-            </div><!-- /.span6 -->
-            <div class="span6">
-              <h3 class="title">KNOWLEDGE</h3>
-              <div class="spacer small"></div>
-              <div class="progress-single">
-                <div class="name">ADOBE PHOTOSHOP</div>
-                <div class="perc">92%</div>
-                <div class="progress-bar" data-percent="92" data-waypoint-active="yes">
-                  <div class="progress-animate"></div>
-                </div>
-              </div><!-- /.progress-single -->
-              <div class="progress-single">
-                <div class="name">ADOBE ILLUSTRATOR</div>
-                <div class="perc">70%</div>
-                <div class="progress-bar" data-percent="70" data-waypoint-active="yes">
-                  <div class="progress-animate"></div>
-                </div>
-              </div><!-- /.progress-single -->
-              <div class="progress-single">
-                <div class="name">ADOBE INDESIGN</div>
-                <div class="perc">88%</div>
-                <div class="progress-bar" data-percent="88" data-waypoint-active="yes">
-                  <div class="progress-animate"></div>
-                </div>
-              </div><!-- /.progress-single -->
-              <div class="progress-single">
-                <div class="name">WACOM</div>
-                <div class="perc">75%</div>
-                <div class="progress-bar" data-percent="75" data-waypoint-active="yes">
-                  <div class="progress-animate"></div>
-                </div>
-              </div><!-- /.progress-single -->
-            </div><!-- /.span6 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-   </section>
-
-   <!-- Brands -->
-   <section class="section brands-section" style="background-color: #161625; padding: 22px 0 11px">
-      <div class="container">
-         <div class="row">
-            <div class="span12">
-               <ul class="unstyled brands">
-                  <li>
-                    <a href="#"><img src="images/brands/1.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/2.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/3.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/4.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/5.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/6.png" alt="image"></a>
-                  </li>
-               </ul><!-- /.brands -->
-            </div>
          </div><!-- /.row -->
       </div><!-- /.container -->
+      <div class="project-wrap fullwidth">
+         <ul class="project-filter v2 inline">
+            <li class="active"><a data-filter="*" href="#">All</a></li>
+            <li><a data-filter=".branding" href="#">Branding</a></li>
+            <li><a data-filter=".editorial" href="#">Editorial</a></li>
+            <li><a data-filter=".illustration" href="#">Illustration</a></li>
+            <li><a data-filter=".web-design" href="#">Web Design</a></li>
+         </ul><!-- /.project-filter -->
+         <div class="project-container" data-portfolio-effect="zoomIn">
+            <div class="item project-item branding">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/1.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item editorial">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/2.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">Editorial 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item illustration">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/3.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">Illustration 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item web-design">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/4.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">WEB DESIGN 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item illustration">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/5.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">Illustration 04</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item editorial branding">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/6.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item illustration web-design">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/7.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item branding">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/8.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item editorial illustration">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/9.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+            <div class="item project-item editorial">
+               <div class="item-wrap">
+                  <div class="project-thumb">
+                     <img src="images/portfolio/10.jpg" alt="image">
+                     <div class="opacity"></div>
+                     <div class="detail">
+                        <div class="text">
+                           <h3 class="project-title"><a href="portfolio-single.php">BRANDING 03</a></h3>
+                           <p>28 December 2014</p>
+                        </div>
+                        <div class="link">
+                           <div class="icon-bg"></div>
+                           <div class="icon">
+                              <a href="portfolio-single.php"><i class="icons-link"></i></a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div><!-- /.item-wrap -->
+            </div><!-- /.project-item -->
+         </div><!-- /.project-container -->
+         <div class="loadmore-btn">
+            <a href="#" class="btn-Hashinc border-type">LOAD MORE</a>
+         </div><!-- /.loadmore-btn -->
+      </div><!-- /.project-wrap -->
    </section>
 
    <!-- Socials -->
-   <section class="section social-section" style="padding: 50px 0; background-color: #d9dff2">
+   <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
          <div class="row">
             <div class="span12">
@@ -478,7 +541,7 @@
                   <a href="#">SERVICES</a> |
                   <a href="#">CONTACT</a>
                </div>
-            </div><!-- /.span12 -->
+            </div>
          </div><!-- /.row -->
       </div><!-- /.container -->
    </div>
