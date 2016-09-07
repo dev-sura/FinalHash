@@ -5,7 +5,7 @@
    <!-- Basic Page Needs -->
    <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-   <title>Hashinc - Corporate Business Template</title>
+   <title>HashInclude | Your Web Developer</title>
    <meta name="description" content="">
    <meta name="keywords" content="">
    <meta name="author" content="">
@@ -50,25 +50,11 @@
             <div class="span8">
                <ul class="contact-info inline pull-left">
                   <li class="phone"><a href="#">+44 256 2582 256</a></li>
-                  <li class="email"><a href="#">info@yourdomain.com</a></li>
-                  <li class="skype"><a href="#">skypename</a></li>
+                  <li class="email"><a href="#">hashinc16@gmail.com</a></li>
+                  
                </ul>
             </div><!-- /.span8 -->
-            <div class="span4">
-               <div class="language pull-right">
-                  Language:
-                  <ul class="unstyled">
-                     <li class="current"><a href="#">English</a>
-                        <ul class="unstyled">
-                           <li class="en"><a href="#">English</a></li>
-                           <li class="ge"><a href="#">German</a></li>
-                           <li class="pl"><a href="#">Polish</a></li>
-                           <li class="ru"><a href="#">Russian</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-               </div><!-- /.language -->
-            </div><!-- /.span4 -->
+            
          </div><!-- /.row -->
       </div><!-- /.containter -->
    </div>
