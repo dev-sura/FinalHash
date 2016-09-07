@@ -140,7 +140,7 @@
 
    <!-- Form -->
    <section class="section entry-post" style="background-color: #10101d">
-      <div class="container">
+      <div class="container" style="margin-bottom:-550px;">
          <div class="row">
             <div class="span12">
                <div class="titlebox">
@@ -152,7 +152,7 @@
             </div><!-- /.span12 -->
          </div><!-- /.row -->
       </div><!-- /.container -->
-      <div id="map" style="width: 100%; height: 300px; margin-bottom: 60px">
+      <div style="width: 100%; height: 300px; margin-bottom: 60px;margin-top:-150px;">
       </div><!-- /map -->
       <div class="container">
          <div class="row">
