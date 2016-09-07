@@ -6,7 +6,7 @@
   * Project Isotope
   * Blog Masonry
   * Tesimonials
-  * hashinc Slider
+  * Hashinc Slider
   * Toggles
   * Google Map
   * Progress Bars
@@ -66,7 +66,7 @@
    var fullScreen = function() {
       (function() {
          function setupSlider() {
-            var sliderhashinc = $('#top-slider'),
+            var sliderHashinc = $('#top-slider'),
             headerHeight = $('#header').height(),
             windowHeight = $(window).height(),
             sliderHeight = 650;
@@ -75,7 +75,7 @@
                sliderHeight = windowHeight;
             }
 
-            sliderhashinc.css({ height: sliderHeight+"px", });
+            sliderHashinc.css({ height: sliderHeight+"px", });
             var sliderContent = $('#top-slider .content'),
             contentHeight = sliderContent.height(),
             contentMargin = (sliderHeight - contentHeight) / 2;
@@ -274,9 +274,9 @@
             map:{
                options:{
                   zoom: 17,
-                  mapTypeId: 'hashinc_style',
+                  mapTypeId: 'Hashinc_style',
                   mapTypeControlOptions: {
-                     mapTypeIds: ['hashinc_style', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
+                     mapTypeIds: ['Hashinc_style', google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
                   },
                   scrollwheel: false
                }
@@ -294,9 +294,9 @@
                }
             },
             styledmaptype:{
-               id: "hashinc_style",
+               id: "Hashinc_style",
                options:{
-                  name: "hashinc Map"
+                  name: "Hashinc Map"
                },
             },
          });
@@ -491,7 +491,7 @@
    };
 
    var orAnimation = function() {
-      $('.hashinc-animation').each( function() {
+      $('.Hashinc-animation').each( function() {
       var orElement = $(this),
          orAnimationClass = orElement.data('animation'),
          orAnimationDelay = orElement.data('animation-delay'),
@@ -514,7 +514,7 @@
 
    var effectProject = function() {
       var effect = $('.project-container').data('portfolio-effect');
-      $('.project-item').children('.item-wrap').addClass('hashinc-animation');
+      $('.project-item').children('.item-wrap').addClass('Hashinc-animation');
 
       $('.project-container').waypoint(function(direction) {
          $('.project-item').children('.item-wrap').each(function(idx, ele) {
@@ -602,14 +602,14 @@
    };
 
    var orCountdown = function() {
-      var hashinc_style = function(data) {
+      var Hashinc_style = function(data) {
          $(this.el).html("<div class='days'><div class='numb'><div class='bg'>" + this.leadingZeros(data.days, 3) + "</div></div><span class='text'>Days</span></div><div class='hours'><div class='numb'><div class='bg'>" + this.leadingZeros(data.hours, 2) + "</div></div><span class='text'>Hours</span></div><div class='mins'><div class='numb'><div class='bg'>" + this.leadingZeros(data.min, 2) + "</div></div><span class='text'>Minutes</span></div><div class='secs'><div class='numb'><div class='bg'>" + this.leadingZeros(data.sec, 2) + "</div></div><span class='text'>Seconds</span></div>");
       }
 
       $('.countdown').each(function() {
          $(this).countdown({
             date: $(this).attr('data-date'),
-            render: hashinc_style
+            render: Hashinc_style
          });
       });
    };

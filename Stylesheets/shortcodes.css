@@ -265,7 +265,7 @@ hr.color {
 
 /* Buttons
 -------------------------------------------------------------- */
-.btn-hashinc {
+.btn-Hashinc {
    display: inline-block;
    color: #fff;
    padding: 10px 20px;
@@ -285,36 +285,36 @@ hr.color {
            transition: all 0.3s ease-in-out;
 }
 
-.btn-hashinc:hover {
+.btn-Hashinc:hover {
    background-color: #fff;
    color: #161625;
    border: 2px solid #fff;
 }
 
-.btn-hashinc.black {
+.btn-Hashinc.black {
    background-color: #161625;
    border: 2px solid #161625;
    color: #fff;
 }
 
-.btn-hashinc.black:hover {
+.btn-Hashinc.black:hover {
    background-color: #fff;
    color: #161625;
 }
 
-.btn-hashinc.border-type {
+.btn-Hashinc.border-type {
    background: transparent;
 }
 
-.btn-hashinc.border-type.v2 {
+.btn-Hashinc.border-type.v2 {
    color: #161625;
 }
  
-.btn-hashinc.border-type:hover {
+.btn-Hashinc.border-type:hover {
    color: #161625;
 }
 
-.btn-hashinc.has-icon i {
+.btn-Hashinc.has-icon i {
    font-size: 17px;
    line-height: 13px;
    margin-top: 3px;

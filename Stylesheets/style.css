@@ -1,5 +1,5 @@
 /**
-  * Name: hashinc
+  * Name: Hashinc
   * Version: 1.0
   * Author: ROLLTHEMES
   * Author URI: http://www.rollthemes.com
@@ -190,12 +190,12 @@ input[type="color"]:focus,
 		  	  box-shadow: none;
 }
 
-.hashinc-animation {
+.Hashinc-animation {
    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
    opacity: 0;
 }
-.hashinc-animation.animated {
+.Hashinc-animation.animated {
    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
    filter: alpha(opacity=100);
    opacity: 1;
@@ -1432,14 +1432,14 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
 	padding-top: 20px;
 }
 
-.comment-respond .btn-hashinc,
-.contact-form .btn-hashinc {
+.comment-respond .btn-Hashinc,
+.contact-form .btn-Hashinc {
 	padding: 10px 48px;
    color: #161625;
 }
 
-.comment-respond .btn-hashinc:hover,
-.contact-form .btn-hashinc:hover {
+.comment-respond .btn-Hashinc:hover,
+.contact-form .btn-Hashinc:hover {
    border-color: #fff;
 }
 
@@ -1788,7 +1788,7 @@ input:focus:invalid:focus, textarea:focus:invalid:focus, select:focus:invalid:fo
    clear: both;
 }
 
-.footer .btn-hashinc.border-type {
+.footer .btn-Hashinc.border-type {
 	color: #fff;
 }
 
