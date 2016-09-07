@@ -369,7 +369,7 @@
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>Hashinc</span> 2014 | ALL RIGHT RESERVED
+                  <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
                </div>
                <div class="bottom-links pull-right">
                   <a href="#">HOME</a> |
