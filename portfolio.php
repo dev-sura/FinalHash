@@ -49,7 +49,7 @@
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="phone"><a href="#">+44 256 2582 256</a></li>
+                  <li class="phone"><a href="#">+91 917 6156 512</a></li>
                   <li class="email"><a href="#">info@yourdomain.com</a></li>
                   <li class="skype"><a href="#">skypename</a></li>
                </ul>
@@ -567,6 +567,13 @@
    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
    <script type="text/javascript" src="javascript/switcher.js"></script>
    <script type="text/javascript" src="javascript/main.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+	<script>
+		$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+	</script>
 </body>
 
 </html>

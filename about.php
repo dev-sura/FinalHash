@@ -6,9 +6,22 @@
    <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
    <title>Hashinc - Corporate Business Template</title>
-   <meta name="description" content="">
-   <meta name="keywords" content="">
-   <meta name="author" content="">
+   <?php 
+		$number = rand(1, 10);
+	?>
+	<style>
+		.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
+}
+</style>
 
    <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -44,12 +57,13 @@
 
 <body>
    <!-- Top -->
+   <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
          <div class="row">
             <div class="span8">
                <ul class="contact-info inline pull-left">
-                  <li class="phone"><a href="#">+44 256 2582 256</a></li>
+                  <li class="phone"><a href="#">+91 917 6156 512</a></li>
                   <li class="email"><a href="#">info@yourdomain.com</a></li>
                   <li class="skype"><a href="#">skypename</a></li>
                </ul>
@@ -470,6 +484,13 @@
    <script type="text/javascript" src="javascript/jquery.cookie.js"></script>
    <script type="text/javascript" src="javascript/switcher.js"></script>
    <script type="text/javascript" src="javascript/main.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+	<script>
+		$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+	</script>
 </body>
 
 </html>
