@@ -94,15 +94,15 @@
       <div class="content">
          <h2 class="sub-title">Why do something you don’t like?</h2>
          <div class="text-scroll">
-            <h1>WE ALSO DON’T KNOW!</h1>
-            <h1>WE ARE ROLLTHEMES.</h1>
+            <h1>WELCOME TO HASH INC.</h1>
             <h1>WE ARE DEVELOPERS.</h1>
-            <h1>WELCOME TO Hashinc.</h1>
-            <h1>AWESOME THEME.</h1>
+            <h1>WE ARE DESIGNERS.</h1>
+            <h1>WE ARE SOCIALITES</h1>
+            <h1>WE DO COMPUTATIONS</h1>
          </div>
          <ul class="ideas inline">
-            <li>Four People</li>
-            <li>Four Cities</li>
+            <li>One Organization</li>
+            <li>Two Developers</li>
             <li>Four Styles</li>
             <li>Four Ideas</li>
          </ul>
