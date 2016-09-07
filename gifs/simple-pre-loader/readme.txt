@@ -1,5 +1,5 @@
 License
-Copyright (c) 2014 SmallEnvelop.com
+Copyright (c) <?php echo Date('Y'); ?> SmallEnvelop.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -37,4 +37,4 @@ website or marketplace, we ask of you to contact us to determine the proper use 
 our resource before doing so.
 
 Contact us – smallenvelop@gmail.com
-© SmallEnvelop 2014
+© SmallEnvelop <?php echo Date('Y'); ?>
