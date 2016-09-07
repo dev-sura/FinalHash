@@ -6,9 +6,22 @@
    <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
    <title>Hashinc - Corporate Business Template</title>
-   <meta name="description" content="">
-   <meta name="keywords" content="">
-   <meta name="author" content="">
+   <?php 
+		$number = rand(1, 10);
+	?>
+	<style>
+		.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url("images/loader-64x/Preloader_<?php echo $number ?>.gif") center no-repeat #fff;
+}
+</style>
 
    <!-- Mobile Specific Metas -->
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -44,6 +57,7 @@
 
 <body>
    <!-- Top -->
+   <div class="se-pre-con"></div>
    <div class="top">
       <div class="container">
          <div class="row">
