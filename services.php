@@ -90,47 +90,13 @@
                   <div class="span10">
                      <div class="btn-menu"></div><!-- /mobile menu button -->
                      <nav id="mainnav" class="mainnav">
-                        <ul class="menu">
+						<ul class="menu">
                            <li><a href="index.php">Home</a>
-                              <ul class="sub-menu">
-                                 <li><a href="#">Third Level Item</a>
-                                    <ul class="sub-menu">
-                                       <li><a href="#">Sub Item Example 1</a></li>
-                                       <li><a href="#">Sub Item Example 2</a></li>
-                                    </ul><!-- /.submenu -->
-                                 </li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a class="active" href="about.php">Pages</a>
-                              <ul class="sub-menu">
-                                 <li><a href="about.php">About</a></li>
-                                 <li><a href="services.php">Services</a></li>
-                                 <li><a href="404.php">404 Page</a></li>
-                                 <li><a href="under-construction.php">Under Construction</a></li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a href="shortcodes.php">Features</a>
-                              <ul class="sub-menu">
-                                 <li><a href="shortcodes.php">Shortcodes</a></li>
-                                 <li><a href="icons.php">Icons</a></li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a href="portfolio.php">Our Work</a>
-                              <ul class="sub-menu">
-                                 <li><a href="portfolio.php">Portfolio</a></li>
-                                 <li><a href="portfolio2.php">Portfolio 2</a></li>
-                                 <li><a href="portfolio-single.php">Portfolio Single</a></li>
-                                 <li><a href="portfolio-single2.php">Portfolio Single 2</a></li>
-                              </ul><!-- /submenu -->
-                           </li>
+                           <li><a href="about.php">About Us</a>
+                           <li><a class="active" href="#">Services</a></li>
+                           <li><a href="portfolio.php">Our Work</a></li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="blog-masonry.php">Blog</a>
-                              <ul class="sub-menu right-sub-menu">
-                                 <li><a href="blog.php">Blog</a></li>
-                                 <li><a href="blog-masonry.php">Blog Masonry</a></li>
-                                 <li><a href="blog-single.php">Blog Single</a></li>
-                              </ul><!-- /submenu -->
-                           </li>
+                           <li><a href="blog-masonry.php">Blog</a></li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
