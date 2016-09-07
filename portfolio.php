@@ -138,10 +138,10 @@
                               </ul><!-- /.submenu -->
                            </li>
                            <li><a href="contact.php">Contact</a></li>
-                           <li><a href="blog-masonry.php">Blog</a>
+                           <li><a href="blog.php">Blog</a>
                               <ul class="sub-menu right-sub-menu">
                                  <li><a href="blog.php">Blog</a></li>
-                                 <li><a href="blog-masonry.php">Blog Masonry</a></li>
+                                 <li><a href="blog.php">Blog Masonry</a></li>
                                  <li><a href="blog-single.php">Blog Single</a></li>
                               </ul><!-- /.submenu -->
                            </li>
@@ -547,13 +547,13 @@
                <div class="copyright pull-left">
                   <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
                </div>
-               <div class="bottom-links pull-right">
-                  <a href="#">HOME</a> |
-                  <a href="#">ABOUT</a> |
-                  <a href="#">PROJECTS</a> |
-                  <a href="#">BLOG</a> |
-                  <a href="#">SERVICES</a> |
-                  <a href="#">CONTACT</a>
+              <div class="bottom-links pull-right">
+                  <a href="index.php">HOME</a> |
+                  <a href="about.php">ABOUT US</a> |
+                  <a href="services.php">SERVICES</a> |
+                  <a href="#">OUR WORK</a> |
+                  <a href="contact.php">CONTACT</a> |
+                  <a href="blog.php">BLOG</a>
                </div>
             </div>
          </div><!-- /.row -->

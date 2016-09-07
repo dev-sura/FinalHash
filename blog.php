@@ -105,46 +105,12 @@
                      <div class="btn-menu"></div><!-- //mobile menu button -->
                      <nav id="mainnav" class="mainnav">
                         <ul class="menu">
-                           <li><a href="index.html">Home</a>
-                              <ul class="sub-menu">
-                                 <li><a href="#">Third Level Item</a>
-                                    <ul class="sub-menu">
-                                       <li><a href="#">Sub Item Example 1</a></li>
-                                       <li><a href="#">Sub Item Example 2</a></li>
-                                    </ul><!-- /.submenu -->
-                                 </li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a href="about.html">Pages</a>
-                              <ul class="sub-menu">
-                                 <li><a href="about.html">About</a></li>
-                                 <li><a href="services.html">Services</a></li>
-                                 <li><a href="404.html">404 Page</a></li>
-                                 <li><a href="under-construction.html">Under Construction</a></li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a href="shortcodes.html">Features</a>
-                              <ul class="sub-menu">
-                                 <li><a href="shortcodes.html">Shortcodes</a></li>
-                                 <li><a href="icons.html">Icons</a></li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a href="portfolio.html">Our Work</a>
-                              <ul class="sub-menu">
-                                 <li><a href="portfolio.html">Portfolio</a></li>
-                                 <li><a href="portfolio2.html">Portfolio 2</a></li>
-                                 <li><a href="portfolio-single.html">Portfolio Single</a></li>
-                                 <li><a href="portfolio-single2.html">Portfolio Single 2</a></li>
-                              </ul><!-- /.submenu -->
-                           </li>
-                           <li><a href="contact.html">Contact</a></li>
-                           <li><a class="active" href="blog-masonry.html">Blog</a>
-                              <ul class="sub-menu right-sub-menu">
-                                 <li><a href="blog.html">Blog</a></li>
-                                 <li><a href="blog-masonry.html">Blog Masonry</a></li>
-                                 <li><a href="blog-single.html">Blog Single</a></li>
-                              </ul><!-- /.submenu -->
-                           </li>
+                           <li><a href="index.php">Home</a>
+                           <li><a class="active" href="#">About Us</a>
+                           <li><a href="services.php">Services</a></li>
+                           <li><a href="portfolio.php">Our Work</a></li>
+                           <li><a href="contact.php">Contact</a></li>
+                           <li><a href="blog.php">Blog</a></li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
@@ -199,7 +165,7 @@
             <div class="posts-container orches-animation" data-animation="fadeInUp" data-animation-delay="0" data-animation-offset="75%">
                <div class="item post-item popular editorial">
                   <div class="featured-post">
-                    <a href="blog-single.html">
+                    <a href="blog-single.php">
                       <div class="overlay">
                         <div class="link">
                           <div class="icon-bg"></div>
@@ -212,13 +178,13 @@
                     </a>
                   </div>
                   <div class="content-post">
-                    <h2><a href="blog-single.html">LOREM IPSUM DOLAR SIT AMET</a></h2>
+                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
                     <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
                   </div>
                </div><!-- /.post-item -->
                <div class="item post-item webdesign">
                   <div class="featured-post">
-                    <a href="blog-single.html">
+                    <a href="blog-single.php">
                       <div class="overlay">
                         <div class="link">
                           <div class="icon-bg"></div>
@@ -231,13 +197,13 @@
                     </a>
                   </div>
                   <div class="content-post">
-                    <h2><a href="blog-single.html">LOREM IPSUM DOLAR SIT AMET</a></h2>
+                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
                     <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
                   </div>
                </div><!-- /.post-item -->
                <div class="item post-item w2 branding illustration">
                   <div class="featured-post">
-                    <a href="blog-single.html">
+                    <a href="blog-single.php">
                       <div class="overlay">
                         <div class="link">
                           <div class="icon-bg"></div>
@@ -250,13 +216,13 @@
                     </a>
                   </div>
                   <div class="content-post">
-                    <h2><a href="blog-single.html">LOREM IPSUM DOLAR SIT AMET</a></h2>
+                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
                     <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra. Duis ut viverra nisl. In hac habitasse platea dictumst. Sed a molestie tellus. Etiam fringilla mi ipsum, et commodo massa dapibus sit amet.</p>
                   </div>
                </div><!-- /.post-item -->
                <div class="item post-item w2 branding illustration popular">
                   <div class="featured-post">
-                    <a href="blog-single.html">
+                    <a href="blog-single.php">
                       <div class="overlay">
                         <div class="link">
                           <div class="icon-bg"></div>
@@ -269,13 +235,13 @@
                     </a>
                   </div>
                   <div class="content-post">
-                    <h2><a href="blog-single.html">LOREM IPSUM DOLAR SIT AMET</a></h2>
+                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
                     <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra. Duis ut viverra nisl. In hac habitasse platea dictumst. Sed a molestie tellus. Etiam fringilla mi ipsum, et commodo massa dapibus sit amet.</p>
                   </div>
                </div><!-- /.post-item -->
                <div class="item post-item editorial illustration">
                   <div class="featured-post">
-                    <a href="blog-single.html">
+                    <a href="blog-single.php">
                       <div class="overlay">
                         <div class="link">
                           <div class="icon-bg"></div>
@@ -288,13 +254,13 @@
                     </a>
                   </div>
                   <div class="content-post">
-                    <h2><a href="blog-single.html">LOREM IPSUM DOLAR SIT AMET</a></h2>
+                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
                     <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
                   </div>
                </div><!-- /.post-item -->
                <div class="item post-item editorial webdesign illustration">
                   <div class="featured-post">
-                    <a href="blog-single.html">
+                    <a href="blog-single.php">
                       <div class="overlay">
                         <div class="link">
                           <div class="icon-bg"></div>
@@ -307,7 +273,7 @@
                     </a>
                   </div>
                   <div class="content-post">
-                    <h2><a href="blog-single.html">LOREM IPSUM DOLAR SIT AMET</a></h2>
+                    <h2><a href="blog-single.php">LOREM IPSUM DOLAR SIT AMET</a></h2>
                     <p>Nam sed leo faucibus, pellentesque lacus ultrices, ultricies orci. Phasellus sagittis massa vel turpis convallis viverra.</p>
                   </div>
                </div><!-- /.post-item -->
@@ -465,12 +431,12 @@
                   <span>ORCHES</span> 2014 | ALL RIGHT RESERVED
                </div>
                <div class="bottom-links pull-right">
-                  <a href="#">HOME</a> |
-                  <a href="#">ABOUT</a> |
-                  <a href="#">PROJECTS</a> |
-                  <a href="#">BLOG</a> |
-                  <a href="#">SERVICES</a> |
-                  <a href="#">CONTACT</a>
+                  <a href="index.php">HOME</a> |
+                  <a href="about.php">ABOUT US</a> |
+                  <a href="services.php">SERVICES</a> |
+                  <a href="portfolio.php">OUR WORK</a> |
+                  <a href="contact.php">CONTACT</a> |
+                  <a href="#">BLOG</a>
                </div>
             </div><!-- /.span12 -->
          </div><!-- /.row -->

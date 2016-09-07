@@ -110,7 +110,7 @@
                            <li><a href="services.php">Services</a></li>
                            <li><a href="portfolio.php">Our Work</a></li>
                            <li><a class="active" href="#">Contact</a></li>
-                           <li><a href="blog-masonry.php">Blog</a></li>
+                           <li><a href="blog.php">Blog</a></li>
                         </ul><!-- /.menu -->
                      </nav>
                   </div><!-- /.span10 -->
@@ -343,12 +343,12 @@
                   <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
                </div>
                <div class="bottom-links pull-right">
-                  <a href="#">HOME</a> |
-                  <a href="#">ABOUT</a> |
-                  <a href="#">PROJECTS</a> |
-                  <a href="#">BLOG</a> |
-                  <a href="#">SERVICES</a> |
-                  <a href="#">CONTACT</a>
+                  <a href="index.php">HOME</a> |
+                  <a href="about.php">ABOUT US</a> |
+                  <a href="services.php">SERVICES</a> |
+                  <a href="portfolio.php">OUR WORK</a> |
+                  <a href="#">CONTACT</a> |
+                  <a href="blog.php">BLOG</a>
                </div>
             </div><!-- /.span12 -->
          </div><!-- /.row -->
