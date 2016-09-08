@@ -155,14 +155,21 @@
       <div style="width: 100%; height: 300px; margin-bottom: 60px;margin-top:-150px;">
       </div><!-- /map -->
       <div class="container">
+      <?php 
+      $dbcon1=@mysql_connect("localhost","root","", true);
+      mysql_select_db('hits_obe',$dbcon1);
+      ?>
          <div class="row">
             <div class="span6 Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
-               <form class="contact-form" id="contactform" method="post" action="./contact/includes/contact-process.php">
-                  <div class="note"></div>
+               <form class="contact-form" method="post" action="contact.php#success">
+                  <div id="success" class="note"></div>
                   <div class="input-wrap name">
                      <input type="text" value="" tabindex="1" placeholder="Name" name="name" id="name">
                   </div>
                   <div class="input-wrap email">
+                     <input type="text" value="" tabindex="2" placeholder="E-mail" name="email" id="email">
+                  </div>
+                   <div class="input-wrap email">
                      <input type="text" value="" tabindex="2" placeholder="E-mail" name="email" id="email">
                   </div>
                   <div class="textarea-wrap">
