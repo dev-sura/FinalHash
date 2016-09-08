@@ -5,7 +5,7 @@
    <!-- Basic Page Needs -->
    <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-   <title>Hashinc - Your Own Web Developer</title>
+   <title>HashInclude - Your Web Developer</title>
    <?php 
 		$number = rand(1, 10);
 	?>
@@ -64,26 +64,10 @@
             <div class="span8">
                <ul class="contact-info inline pull-left">
                   <li class="phone"><a href="#">+91 917 6156 512</a></li>
-                  <li class="email"><a href="#">info@yourdomain.com</a></li>
-                  <li class="skype"><a href="#">skypename</a></li>
+                  <li class="email"><a href="#">hashinc16@gmail.com</a></li>
                </ul>
             </div><!-- /.span8 -->
-            <div class="span4">
-               <div class="language pull-right">
-                  Language:
-                  <ul class="unstyled">
-                     <li class="current"><a href="#">English</a>
-                        <ul class="unstyled">
-                           <li class="en"><a href="#">English</a></li>
-                           <li class="ge"><a href="#">German</a></li>
-                           <li class="pl"><a href="#">Polish</a></li>
-                           <li class="ru"><a href="#">Russian</a></li>
-                        </ul>
-                     </li>
-                  </ul>
-               </div><!-- /.language -->
-            </div><!-- /.span4 -->
-         </div><!-- /.row -->
+            </div><!-- /.row -->
       </div><!-- /.containter -->
    </div>
 
@@ -158,14 +142,13 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Jonathan Crannes</h5>
-                  <p class="position">Editorial Design</p>
+                  <h5 class="name">Surakshit Kumar</h5>
+                  <p class="position">Front-End Developer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
+                 
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
@@ -178,14 +161,13 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Michael Bonose</h5>
-                  <p class="position">Illustrator</p>
+                  <h5 class="name">Manjunath Poilath</h5>
+                  <p class="position">Back-End Developer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
+                
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
@@ -198,14 +180,13 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Simon Hunt</h5>
+                  <h5 class="name">Arihant Jain</h5>
                   <p class="position">Designer</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
+                 
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
@@ -218,14 +199,13 @@
                   </div>
                 </div>
                 <div class="info">
-                  <h5 class="name">Gregory Willson</h5>
+                  <h5 class="name">Sriramakrishna</h5>
                   <p class="position">Webdesign</p>
                 </div>
                 <ul class="socials unstyled">
                   <li><a href="#"><i class="icons-facebook"></i></a></li>
                   <li><a href="#"><i class="icons-twitter"></i></a></li>
-                  <li><a href="#"><i class="icons-dribbble"></i></a></li>
-                  <li><a href="#"><i class="icons-behance"></i></a></li>
+              
                 </ul>
                 <div class="clearfix"></div>
               </div><!-- /.team -->
@@ -275,35 +255,7 @@
       </div><!-- /.container -->
    </section>
 
-   <!-- Brands -->
-   <section class="section brands-section" style="background-color: #161625; padding: 22px 0 11px">
-      <div class="container">
-         <div class="row">
-            <div class="span12">
-               <ul class="unstyled brands">
-                  <li>
-                    <a href="#"><img src="images/brands/1.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/2.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/3.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/4.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/5.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/6.png" alt="image"></a>
-                  </li>
-               </ul><!-- /.brands -->
-            </div>
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-   </section>
+  
 
    <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background-color: #d9dff2">
@@ -312,7 +264,7 @@
             <div class="span12">
                <div class="socials-list Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0" data-animation-offset="75%">
                   <div class="follow-us">
-                     <h3>Follow Us</h3>
+                   <center> <h2><strong>Follow Us</strong></h2></center> 
                   </div>
                   <div class="social-icons">
                      <a class="iconwrap" href="#">
@@ -329,27 +281,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-dribbble"></i>
-                           </div>
-                        </div>
-                     </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-behance"></i>
-                           </div>
-                        </div>
-                     </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-pinterest"></i>
-                           </div>
-                        </div>
-                     </a>
+                    
                      <a class="iconwrap" href="#">
                         <div class="icon">
                            <div class="iconbg">
@@ -357,102 +289,24 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-vimeo-square"></i>
-                           </div>
-                        </div>
-                     </a>
+                     
                   </div>
                </div><!-- /.socials-list -->
             </div><!-- /.span12 -->
          </div><!-- /.row -->
       </div><!-- /.container -->
    </section>
-
-   <!-- Footer -->
-   <footer class="footer">
-      <div class="container">
-         <div class="row">
-            <div class="span3">
-               <div class="widget widget-brand">
-                  <div class="logo">
-                     <a href="./"><img src="images/logo.png" alt="Hashinc" /></a>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio. Cras elementum elit eu ante interdum cursus. Curabitur a risus ornare, volutpat diam at, suscipit nisi. Nunc elit nunc, rhoncus eu fermentum sed.</p>
-                  <a href="#" class="btn-Hashinc border-type">READ MORE</a>
-               </div><!-- /.widget-brand -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-recent-posts">
-                  <h5 class="widget-title">Recent Posts</h5>
-                  <ul class="unstyled">
-                     <li>
-                        <img src="images/blog/t1.jpg" alt="image">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem.</p>
-                        <div class="meta-post">
-                           <span class="date">24 12 2014</span>
-                           <span class="author"><a href="#">by Admin</a></span>
-                        </div>
-                     </li>
-                     <li>
-                        <img src="images/blog/t2.jpg" alt="image">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem.</p>
-                        <div class="meta-post">
-                           <span class="date">24 12 2014</span>
-                           <span class="author"><a href="#">by Admin</a></span>
-                        </div>
-                     </li>
-                  </ul>
-               </div><!-- /.widget-recent-posts -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-tags">
-                  <h5 class="widget-title">Tags</h5>
-                  <div class="tags">
-                     <a href="#">Portfolio</a>
-                     <a href="#">Wordpress</a>
-                     <a href="#">Themeforest</a>
-                     <a href="#">HTML</a>
-                     <a href="#">Art</a>
-                     <a href="#">Creative</a>
-                     <a href="#">PSD</a>
-                  </div>
-               </div><!-- /.widget-tags -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-newsletter">
-                  <h5 class="widget-title">Newsletter</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio.</p>
-                  <form method="post" action="#" id="subscribe-form" data-mailchimp="true">
-                     <div id="subscribe-content">
-                        <div class="input">
-                           <input type="text" id="subscribe-email" name="subscribe-email" placeholder="Your address e-mail">
-                        </div>
-                        <div class="button">
-                           <button type="button" id="subscribe-button" class="" title="Subscribe now"><i class="icons-angle-right"></i></button>
-                        </div>
-                     </div>
-                     <div id="subscribe-msg"></div>
-                  </form>
-               </div><!-- /.widget-newsletter -->
-            </div><!-- /.span3 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-   </footer>
-
-   <!-- Bottom -->
+  <!-- Bottom -->
    <div class="bottom">
       <div class="container">
          <div class="row">
             <div class="span12">
                <div class="copyright pull-left">
-                  <span>HashInclude</span> 2016 | ALL RIGHTS RESERVED
+                  <span><a href="www.hashinc.in"><img src="images/logo.png"></a></span> 2016 | ALL RIGHTS RESERVED
                </div>
                <div class="bottom-links pull-right">
                   <a href="index.php">HOME</a> |
-                  <a href="#">ABOUT US</a> |
+                  <a href="about.php">ABOUT US</a> |
                   <a href="services.php">SERVICES</a> |
                   <a href="portfolio.php">OUR WORK</a> |
                   <a href="contact.php">CONTACT</a> |
