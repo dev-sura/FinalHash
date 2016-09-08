@@ -150,7 +150,7 @@
                      </div>
                   </div>
                   <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
-                  <p>The designs are </p>
+                  <p>We provide professional designs for our customers.</p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
