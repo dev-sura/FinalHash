@@ -102,11 +102,11 @@
       <div class="content">
          <h2 class="sub-title">Why do something you don’t like?</h2>
          <div class="text-scroll">
-            <h1>WELCOME TO HASH INC.</h1>
+            <h1>WELCOME TO HASH INCLUDE.</h1>
             <h1>WE ARE DEVELOPERS.</h1>
             <h1>WE ARE DESIGNERS.</h1>
-            <h1>WE ARE SOCIALITES</h1>
-            <h1>WE DO COMPUTATIONS</h1>
+            <h1>WE ARE SOCIALITES..</h1>
+            <h1>WE DO COMPUTATIONS.</h1>
          </div>
          <ul class="ideas inline">
             <li>One Organization</li>
@@ -482,77 +482,6 @@
          </div><!-- /.row -->
       </div><!-- /.container -->
    </section>
-
-   <!-- Footer -->
-   <footer class="footer">
-      <div class="container">
-         <div class="row">
-            <div class="span3">
-               <div class="widget widget-brand">
-                  <div class="logo">
-                     <a href="./"><img src="images/logo.png" alt="Hashinc" /></a>
-                  </div>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio. Cras elementum elit eu ante interdum cursus. Curabitur a risus ornare, volutpat diam at, suscipit nisi. Nunc elit nunc, rhoncus eu fermentum sed.</p>
-                  <a href="#" class="btn-Hashinc border-type">READ MORE</a>
-               </div><!-- /.widget-brand -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-recent-posts">
-                  <h5 class="widget-title">Recent Posts</h5>
-                  <ul class="unstyled">
-                     <li>
-                        <img src="images/blog/t1.jpg" alt="image">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem.</p>
-                        <div class="meta-post">
-                           <span class="date">24 12 2014</span>
-                           <span class="author"><a href="#">by Admin</a></span>
-                        </div>
-                     </li>
-                     <li>
-                        <img src="images/blog/t2.jpg" alt="image">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue lorem.</p>
-                        <div class="meta-post">
-                           <span class="date">24 12 2014</span>
-                           <span class="author"><a href="#">by Admin</a></span>
-                        </div>
-                     </li>
-                  </ul>
-               </div><!-- /.widget-recent-posts -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-tags">
-                  <h5 class="widget-title">Tags</h5>
-                  <div class="tags">
-                     <a href="#">Portfolio</a>
-                     <a href="#">Wordpress</a>
-                     <a href="#">Themeforest</a>
-                     <a href="#">HTML</a>
-                     <a href="#">Art</a>
-                     <a href="#">Creative</a>
-                     <a href="#">PSD</a>
-                  </div>
-               </div><!-- /.widget-tags -->
-            </div><!-- /.span3 -->
-            <div class="span3">
-               <div class="widget widget-newsletter">
-                  <h5 class="widget-title">Newsletter</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non turpis auctor, rutrum lacus ultrices, venenatis odio.</p>
-                  <form method="post" action="#" id="subscribe-form" data-mailchimp="true">
-                     <div id="subscribe-content">
-                        <div class="input">
-                           <input type="text" id="subscribe-email" name="subscribe-email" placeholder="Your address e-mail">
-                        </div>
-                        <div class="button">
-                           <button type="button" id="subscribe-button" class="" title="Subscribe now"><i class="icons-angle-right"></i></button>
-                        </div>
-                     </div>
-                     <div id="subscribe-msg"></div>
-                  </form>
-               </div><!-- /.widget-newsletter -->
-            </div><!-- /.span3 -->
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-   </footer>
 
    <!-- Bottom -->
    <div class="bottom">
