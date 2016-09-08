@@ -228,8 +228,7 @@
                         <div class="opacity"></div>
                         <div class="detail">
                            <div class="text">
-                              <h3 class="project-title"><a href="#">BRANDING 03</a></h3>
-                              <p>28 December 2014</p>
+                              <h3 class="project-title"><a href="www.hitsrevelation.com">Revelation</a></h3>
                            </div>
                            <div class="link">
                               <div class="icon-bg"></div>
