@@ -233,7 +233,7 @@
                            <div class="link">
                               <div class="icon-bg"></div>
                               <div class="icon">
-                                 <a href="#"><i class="icons-link"></i></a>
+                                 <a href="www.hitsrevelation.com"><i class="icons-link"></i></a>
                               </div>
                            </div>
                         </div>
