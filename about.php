@@ -210,6 +210,24 @@
                 <div class="clearfix"></div>
               </div><!-- /.team -->
             </div><!-- /.span3 -->
+            <div style="margin-left: 480px;margin-top:30px;" class="span3">
+              <div class="team Hashinc-animation" data-animation="fadeInUp" data-animation-delay="0.6s" data-animation-offset="75%">
+                <div class="photo">
+                  <div class="overlays">
+                    <img src="images/team/4.jpg" alt="image">
+                  </div>
+                </div>
+                <div class="info">
+                  <h5 class="name">Kunal Dhariwal</h5>
+                  <p class="position">Webdesign</p>
+                </div>
+                <ul class="socials unstyled">
+                  <li><a href="#"><i class="icons-facebook"></i></a></li>
+                  <li><a href="#"><i class="icons-twitter"></i></a></li>
+                </ul>
+                <div class="clearfix"></div>
+              </div><!-- /.team -->
+            </div><!-- /.span3 -->
             <div class="spacer large"></div>
             <div class="span6">
               <h3 class="title">A BRIEF HISTORY OF OUR COLLECTIVE</h3>
