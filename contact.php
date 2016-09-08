@@ -176,7 +176,7 @@
                      <textarea class="" tabindex="3" placeholder="Message" name="message" id="message"></textarea>
                   </div>
                   <div class="submit-wrap">
-                     <input type="submit" value="SEND" id="submit" name="submit" class="btn-Hashinc black">
+                     <input type="submit" name="submi" class="btn-Hashinc black">
                   </div>
                </form><!-- /.comment-form -->
             </div><!-- /.span6 -->
@@ -391,6 +391,35 @@
 		// Animate loader off screen
 		$(".se-pre-con").fadeOut("slow");;
 	});
+	</script>
+	<script>
+	var ajaxContactForm = function() {
+	      // http://www.bitrepository.com/a-simple-ajax-contact-form-with-php-validation.html
+	      $('.contact-form').each(function(){
+	         var $this = $(this); 
+	         $this.submit(function() {
+	            var str = $this.serialize();
+	            $.ajax({
+	               type: "POST",
+	               url:  $this.attr('action'),
+	               data: str,
+	               success: function(msg) {
+	                  // Message Sent? Show the 'Thank You' message and hide the form
+	                  var result;
+	                  if(msg == 'OK') {
+	                     result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
+	                  } else {
+	                     result = msg;
+	                  }
+	                  result = '<div class="result">' + result + '</div>';
+	                  $this.find('.note').html(result);
+	               }
+	            });
+	            return false;
+	         }); // submit
+
+	      }); // each contactform
+	   }; // contact
 	</script>
 </body>
 

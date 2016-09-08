@@ -559,34 +559,6 @@
       }
    };
 
-   var ajaxContactForm = function() {
-      // http://www.bitrepository.com/a-simple-ajax-contact-form-with-php-validation.html
-      $('.contact-form').each(function(){
-         var $this = $(this); 
-         $this.submit(function() {
-            var str = $this.serialize();
-            $.ajax({
-               type: "POST",
-               url:  $this.attr('action'),
-               data: str,
-               success: function(msg) {
-                  // Message Sent? Show the 'Thank You' message and hide the form
-                  var result;
-                  if(msg == 'OK') {
-                     result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
-                  } else {
-                     result = msg;
-                  }
-                  result = '<div class="result">' + result + '</div>';
-                  $this.find('.note').html(result);
-               }
-            });
-            return false;
-         }); // submit
-
-      }); // each contactform
-   }; // contact
-
    var flickrFeed = function() {
       if ( $().jflickrfeed ) {
          $('.flickr-photos').each( function() {
