@@ -139,7 +139,7 @@
                      </div>
                   </div>
                   <h3><a href="#">STRATEGIC ACTION PLAN</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <p>The projects are planened in such a way that optimum results are produced for the utmost satisfaction of the customers.<p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
@@ -150,7 +150,7 @@
                      </div>
                   </div>
                   <h3><a href="#">PROFESSIONAL DESIGN</a></h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam convallis fermentumurna vitae.</p>
+                  <p>The designs are </p>
                </div>
             </div><!-- /.span3 -->
             <div class="span3">
