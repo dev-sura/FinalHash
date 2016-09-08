@@ -5,7 +5,7 @@
    <!-- Basic Page Needs -->
    <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-   <title>Hashinc - Your Own Web Developer</title>
+   <title>HashInclude | Your Web Developer</title>
    <?php 
 		$number = rand(1, 10);
 	?>
