@@ -444,36 +444,6 @@
       </div><!-- /.container -->
    </section>
 
-   <!-- Brands -->
-   <section class="section brands-section" style="background-color: #161625; padding: 22px 0 11px">
-      <div class="container">
-         <div class="row">
-            <div class="span12">
-               <ul class="unstyled brands">
-                  <li>
-                    <a href="#"><img src="images/brands/1.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/2.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/3.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/4.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/5.png" alt="image"></a>
-                  </li>
-                  <li>
-                    <a href="#"><img src="images/brands/6.png" alt="image"></a>
-                  </li>
-               </ul><!-- /.brands -->
-            </div>
-         </div><!-- /.row -->
-      </div><!-- /.container -->
-   </section>
-
    <!-- Socials -->
    <section class="section social-section" style="padding: 50px 0; background: #d9dff2">
       <div class="container">
@@ -481,7 +451,7 @@
             <div class="span12">
                <div class="socials-list Hashinc-animation" data-animation="fadeInLeft" data-animation-delay="0.5s" data-animation-offset="90%">
                   <div class="follow-us">
-                     <h3>Follow Us</h3>
+                     <center><h2><strong>Follow Us</strong></h2></center>
                   </div>
                   <div class="social-icons">
                      <a class="iconwrap" href="#">
@@ -498,27 +468,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-dribbble"></i>
-                           </div>
-                        </div>
-                     </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-behance"></i>
-                           </div>
-                        </div>
-                     </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-pinterest"></i>
-                           </div>
-                        </div>
-                     </a>
+                     
                      <a class="iconwrap" href="#">
                         <div class="icon">
                            <div class="iconbg">
@@ -526,14 +476,7 @@
                            </div>
                         </div>
                      </a>
-                     <a class="iconwrap" href="#">
-                        <div class="icon">
-                           <div class="iconbg">
-                              <i class="icons-vimeo-square"></i>
-                           </div>
-                        </div>
-                     </a>
-                  </div>
+                     </div>
                </div><!-- /.socials-list -->
             </div><!-- /.span12 -->
          </div><!-- /.row -->
