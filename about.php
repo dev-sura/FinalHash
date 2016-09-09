@@ -72,7 +72,7 @@
    </div>
 
    <!-- Parallax Fullwidth -->
-   <div id="page-slider" class="parallax-bg6 parallax">
+   <div id="page-slider" class="parallax-bg7 parallax">
       <div class="overlay"></div>
       <header id="header" class="header">
          <div class="header-wrap">
